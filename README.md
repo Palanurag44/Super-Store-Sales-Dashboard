@@ -40,12 +40,7 @@ Data visualization & forecasting
 
 📸 Dashboard Preview
 
-(Add screenshots here – like the ones you shared)
-
-🙏 Acknowledgment
-
-Special thanks to Rishabh Mishra Sir for his guidance and mentorship throughout this learning journey.
-
+(Add screenshots here – like the ones you share)
 📌 How to Use
 
 Clone the repository
