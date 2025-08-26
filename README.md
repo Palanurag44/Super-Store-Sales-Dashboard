@@ -48,3 +48,9 @@ Clone the repository
 Open the .pbix file in Power BI Desktop
 
 Explore the interactive dashboard
+
+📌 Author
+👤 [Anurag pal]
+
+🌐 linkedin.com/in/anurag-pal-7a722a127
+📧 Email: [Palanurag44@gmail.com]
